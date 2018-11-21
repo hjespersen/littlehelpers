@@ -7,7 +7,8 @@ python-pip \
 graphviz \
 pv \
 d-feet \
-cmake \ 
+cmake \
+jq \ 
 network-manager-openconnect-gnome
 
 pip install pycrypto
