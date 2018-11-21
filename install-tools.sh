@@ -6,7 +6,8 @@ clang-format-4.0 \
 python-pip \
 graphviz \
 pv \
-d-feet \ 
+d-feet \
+cmake \ 
 network-manager-openconnect-gnome
 
 pip install pycrypto
