@@ -8,7 +8,8 @@ graphviz \
 pv \
 d-feet \
 cmake \
-jq \ 
+jq \
+arp-scan \ 
 network-manager-openconnect-gnome
 
 pip install pycrypto
