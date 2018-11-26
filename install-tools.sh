@@ -9,7 +9,8 @@ pv \
 d-feet \
 cmake \
 jq \
-arp-scan \ 
+arp-scan \
+audacity \ 
 network-manager-openconnect-gnome
 
 pip install pycrypto
